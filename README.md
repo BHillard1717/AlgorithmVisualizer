@@ -5,3 +5,5 @@ This project was done to show how certain algorithms appear after an iteration o
 This is not intended to show speed differences but to illustrate the different methods of sorting.
 
 Feel free to use any code found here for any of your projects.
+
+MARKED COMPLETE 3/11/22
